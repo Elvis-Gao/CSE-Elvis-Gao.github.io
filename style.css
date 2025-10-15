@@ -7,3 +7,7 @@ h1, h2, p {
     color: #FFFFFF;
     text-align: center;
 }
+.project img {
+    margin: auto;
+    display: block;
+}
